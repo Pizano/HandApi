@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandApi", "HandApi.csproj", "{1F80E195-2E7E-45C2-9566-9F63E548965F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandApi.Test", "..\HandApi.Test\HandApi.Test.csproj", "{36E2F206-0A0A-42D5-B292-5EC95A840115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F80E195-2E7E-45C2-9566-9F63E548965F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F80E195-2E7E-45C2-9566-9F63E548965F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F80E195-2E7E-45C2-9566-9F63E548965F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F80E195-2E7E-45C2-9566-9F63E548965F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E2F206-0A0A-42D5-B292-5EC95A840115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E2F206-0A0A-42D5-B292-5EC95A840115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E2F206-0A0A-42D5-B292-5EC95A840115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E2F206-0A0A-42D5-B292-5EC95A840115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16F16D21-785E-4B22-A94D-FFEC2AA98C64}
+	EndGlobalSection
+EndGlobal

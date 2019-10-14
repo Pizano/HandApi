@@ -1,0 +1,13 @@
+C:\Users\Pizano\Desktop\HandApi\HandApi\bin\Debug\netcoreapp2.2\HandApi.deps.json
+C:\Users\Pizano\Desktop\HandApi\HandApi\bin\Debug\netcoreapp2.2\HandApi.runtimeconfig.json
+C:\Users\Pizano\Desktop\HandApi\HandApi\bin\Debug\netcoreapp2.2\HandApi.runtimeconfig.dev.json
+C:\Users\Pizano\Desktop\HandApi\HandApi\bin\Debug\netcoreapp2.2\HandApi.dll
+C:\Users\Pizano\Desktop\HandApi\HandApi\obj\Debug\netcoreapp2.2\HandApi.csproj.CoreCompileInputs.cache
+C:\Users\Pizano\Desktop\HandApi\HandApi\obj\Debug\netcoreapp2.2\HandApi.RazorAssemblyInfo.cache
+C:\Users\Pizano\Desktop\HandApi\HandApi\obj\Debug\netcoreapp2.2\HandApi.RazorAssemblyInfo.cs
+C:\Users\Pizano\Desktop\HandApi\HandApi\obj\Debug\netcoreapp2.2\HandApi.AssemblyInfoInputs.cache
+C:\Users\Pizano\Desktop\HandApi\HandApi\obj\Debug\netcoreapp2.2\HandApi.AssemblyInfo.cs
+C:\Users\Pizano\Desktop\HandApi\HandApi\obj\Debug\netcoreapp2.2\HandApi.RazorTargetAssemblyInfo.cache
+C:\Users\Pizano\Desktop\HandApi\HandApi\bin\Debug\netcoreapp2.2\HandApi.pdb
+C:\Users\Pizano\Desktop\HandApi\HandApi\obj\Debug\netcoreapp2.2\HandApi.dll
+C:\Users\Pizano\Desktop\HandApi\HandApi\obj\Debug\netcoreapp2.2\HandApi.pdb
